@@ -25,6 +25,8 @@
 </h3>
 	<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white" />
 	<img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white" />
+	<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" />
+	<img src="https://img.shields.io/badge/googlesheets-34A853?style=flat&logo=notion&logoColor=white" />
 </div>
 
 
