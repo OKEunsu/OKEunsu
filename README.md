@@ -50,5 +50,6 @@
 	<br>
 	<br>
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OKEunsu&hide_progress=true&theme=transparent)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OKEunsu&hide_progress=true&theme=transparent&hide_border=true" alt="Top Languages">
+</div>
