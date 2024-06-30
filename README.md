@@ -10,9 +10,9 @@
 <br>
 <br>
 <h1>🛠️ Skill Set 🛠️</h1>
-  <h3>
+  <h2>
   💻Languages & Code Editer💻
-  </h3>
+  </h2>
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
  	<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
 	<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
@@ -22,9 +22,9 @@
 	<br>
 	<br>
 	<br>
-<h3>
+<h2>
   💾DataBase & SQL💾	
-</h3>
+</h2>
 	<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white" />
 	<img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white" />
 	<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" />
@@ -32,17 +32,17 @@
 	<br>
 	<br>
 	<br>
-<h3>
+<h2>
   🤖ML & DL🤖	
-</h3>
+</h2>
 	<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
 	<img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white" />
 	<br>
 	<br>
 	<br>
-<h3>
+<h2>
   📊DashBoard📊	
-</h3>
+</h2>
 	<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
 	<img src="https://img.shields.io/badge/plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
 	<img src="https://img.shields.io/badge/tableau-E97627?style=flat&logo=tableau&logoColor=white" />
