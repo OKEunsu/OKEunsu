@@ -21,8 +21,10 @@
 <br>
 <br>
 <h3>
-  💻Languages & Code Editer💻
+  💾DataBase & SQL💾	
 </h3>
+	<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white" />
+	<img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white" />
 </div>
 
 
