@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=350&text=Hello%20World!&fontColor=1263CE)
 
 <div align=center>
-  <h3>🙋‍♂️Introduce</h3>
+  <h3>🙋‍♂️Introduce🙋‍♂️</h3>
   <h4>
     안녕하세요
     <br>
@@ -9,7 +9,7 @@
   </h4>
 	
   <h3>
-  💻Languages & Code Editer
+  💻Languages & Code Editer💻
   </h3>
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
  	<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
