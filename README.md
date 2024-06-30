@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=350&text=Hello%20World!&fontColor=1263CE)
 
 <div align=center>
-  <h2>🙋‍♂️Introduce🙋‍♂️</h2>
+  <h1>🙋‍♂️ Introduce 🙋‍♂️</h1>
   <h4>
     안녕하세요
     <br>
@@ -9,6 +9,7 @@
   </h4>
 <br>
 <br>
+<h1>🛠️ Skill Set 🛠️</h1>
   <h3>
   💻Languages & Code Editer💻
   </h3>
