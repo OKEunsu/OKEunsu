@@ -18,6 +18,9 @@
  	<br>
  	<img src="https://img.shields.io/badge/pycharm-32CD32?style=flat&logo=pycharm&logoColor=white" />
   	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <h3>
+  💻Languages & Code Editer💻
+  </h3>
 </div>
 
 
