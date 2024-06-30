@@ -51,4 +51,4 @@
 	<br>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OKEunsu&theme=blue_navy&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OKEunsu&hide_progress=true&theme=transparent)
