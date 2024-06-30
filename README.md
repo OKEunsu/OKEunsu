@@ -11,7 +11,7 @@
   <h3>
   SkillSet
   </h3>
-	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=#3776AB" />
+	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
 
 </div>
 
