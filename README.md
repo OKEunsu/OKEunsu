@@ -13,7 +13,7 @@
   </h3>
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
- 	<img src="https://img.shields.io/badge/pycharm-00FF00?style=flat&logo=pycharm&logoColor=black" />
+ 	<img src="https://img.shields.io/badge/pycharm-32CD32?style=flat&logo=pycharm&logoColor=white" />
 </div>
 
 
