@@ -36,6 +36,18 @@
 </h3>
 	<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
 	<img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+	<br>
+	<br>
+	<br>
+<h3>
+  📊DashBoard📊	
+</h3>
+	<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+	<img src="https://img.shields.io/badge/plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
+	<img src="https://img.shields.io/badge/tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+	<br>
+	<br>
+	<br>
 </div>
 
 
