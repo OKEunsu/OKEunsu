@@ -9,18 +9,11 @@
   </h4>
   <h4>
   SkillSet
-  <ul>
-    <li>Python</li>
-    <li>R</li>
-    <li>SQL</li>
-    <li>Machine Learning</li>
-    <li>Data Visualization (e.g., Matplotlib, Seaborn)</li>
-    <li>Data Wrangling (e.g., Pandas)</li>
-    <li>Statistical Analysis</li>
-  </ul>
-</h4>
+  </h4>
+  	<div align="center">
+	    <img src="https://img.shields.io/badge/python?style=flat&logo=python&logoColor=#3776AB" />
 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+    </div>
 </div>
 
 
