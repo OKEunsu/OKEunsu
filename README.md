@@ -49,7 +49,6 @@
 	<br>
 	<br>
 	<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 </div>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OKEunsu&theme=blue_navy&hide_progress=true)
