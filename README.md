@@ -7,11 +7,11 @@
     <br>
     데이터 사이언스에 관심이 많습니다.
   </h4>
-  <h4>
+  <h3>
   SkillSet
-  </h4>
+  </h3>
   	<div align="center">
-	    <img src="https://img.shields.io/badge/python?style=flat&logo=python&logoColor=#3776AB" />
+	    <img src="https://img.shields.io/badge/python-007396?style=flat&logo=python&logoColor=#3776AB" />
 
     </div>
 </div>
