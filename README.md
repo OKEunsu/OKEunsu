@@ -18,8 +18,8 @@
  	<br>
  	<img src="https://img.shields.io/badge/pycharm-32CD32?style=flat&logo=pycharm&logoColor=white" />
   	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-<br>
-<br>
+	<br>
+	<br>
 <h3>
   💾DataBase & SQL💾	
 </h3>
